@@ -1,4 +1,6 @@
 # QAnalySeriesWASM
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10892222.svg)](https://doi.org/10.5281/zenodo.10892222)
+
 WASM / Web version of QAnalySeries tool. 
 QAnalySeries is a partial replacement for the original AnalySeries time series analysis and correlation tool of Didier Paillard.
 
