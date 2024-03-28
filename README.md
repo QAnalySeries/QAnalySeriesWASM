@@ -21,6 +21,8 @@ Adding and deleting of tie points are the same as in original AnalySeries with "
 An **experimental** new version of QAnalySeries is now also available for testing at https://paloz.marum.de/QAnalySeriesWASM/index.html.
 This version runs inside the user's browser, and is generated as a Webassembly "Web-App".
 
+To build: open CMakeLists.txt with a Qt (e.g. 6.7.0) WASM Toolchain. For multi-threaded versions, the build .wasm, .js files need to be hosted by https://.
+
 Limitation on mobile devices
 Note that this version does not yet implement touch-screen gestures, and thus it is not currently possible to pinch-zoom. On Desktop machines a mouse-wheel allows horizontal zooming (or full zooming when additionally the Shift key is pressed).
 This version includes an initial version of a Spectral Analysis function (under the Tools→Spectral Analysis Menu).
