@@ -26,7 +26,7 @@ Data can be uploaded and downloaded to the local computer. Astronomical data can
 If you host this application locally, please adjust the network location to load the supplementary laskar.db3 file (included under resources), to reduce initial loading time.
 
 This software acknowledges use of:
-- the Eigen library (https://eigen.tuxfamily.org/index.php) MPL2.0 license
+- the Eigen librarx (https://eigen.tuxfamily.org/index.php) MPL2.0 license
 - QCustomPlot (https://www.qcustomplot.com), GPL license
 - Qt WASM Toolchain (www.qt.com).
 
