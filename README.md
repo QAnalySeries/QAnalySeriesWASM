@@ -37,3 +37,7 @@ Didier Paillard, Laurent Labeyrie, Pascal Yiou.
 Macintosh Program performs time-series analysis. 
 Eos, Transactions American Geophysical Union, 1996, 77 (39), pp.379-379. 
 https://dx.doi.org/10.1029/96EO00259
+
+![](readme_images/img.001.png)
+![](readme_images/img.002.png)
+
